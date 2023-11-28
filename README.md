@@ -16,10 +16,13 @@ If you are interested in working with me, please don't hesitate to reach out.
 
 # hi mom
 
-When exploring a new language, there is an important first skill I always learn: how to say hi to my mom.
+When exploring a new language, I always try to remember to say hi to my mom.
 
-### [python](https://gist.github.com/n-sweep/00abe41a87d62aba5d290dbad730f4c4)
+👋 **python**  
+[[`hi_mom.py`](https://gist.github.com/n-sweep/00abe41a87d62aba5d290dbad730f4c4)]
 
-### [golang](https://github.com/n-sweep/learning_golang/blob/main/hello_world/hi_mom.go)
+👋 **golang**  
+[[`hi_mom.go`](https://github.com/n-sweep/learning_golang/blob/main/hello_world/hi_mom.go)]
 
-### [mojo🔥](https://github.com/n-sweep/learning_mojo/blob/main/hello_world/hi_mom.mojo)
+👋 **mojo🔥**  
+[[`hi_mom.mojo`](https://github.com/n-sweep/learning_mojo/blob/main/hello_world/hi_mom.mojo)]
