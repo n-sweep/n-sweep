@@ -4,11 +4,10 @@ My name is Noah and I'm a data scientist and engineer. I have worked as a CNC pr
 
 More recently I have worked for [Galvanize, Inc](https://www.galvanize.com/), [CMS AI Health Outcomes Challenge](https://www.cms.gov/newsroom/press-releases/cms-selects-winner-and-runner-artificial-intelligence-health-outcomes-challenge) winning startup [ClosedLoop.ai](https://www.closedloop.ai/), and [top-ranking](https://www.cms.gov/newsroom/press-releases/cms-selects-winner-and-runner-artificial-intelligence-health-outcomes-challenge) ACO REACH [ilumed](https://ilumed.com).
 
-Today I work freelance as a contract data engineer, scientist, analyist & Python developer, as well as private tutor and coach focusing on python, the UNIX command line, bash, and vim.
+Today I am a senior data engineer at Huron Consulting group, as well as maintaining some time on the weekends for private tutoring and coaching focusing on python, the UNIX command line, bash, and vim.
 
 
 If you are interested in working with me, please don't hesitate to reach out.
 
     email:      n@sweep.sh
-    phone:      234.249.1314
     li:         in/noah-shreve
